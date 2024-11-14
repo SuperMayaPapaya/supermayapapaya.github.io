@@ -1,4 +1,7 @@
 # Books I Like
+
+![Books](books.jpg)
+
 * Harry Potter
 * Percy Jackson
 * True (sort of)

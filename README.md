@@ -3,3 +3,4 @@
 * Percy Jackson
 * True (sort of)
 * Hatchet
+* Die Schule der Magischen Tiere
